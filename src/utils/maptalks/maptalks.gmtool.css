@@ -1,0 +1,40 @@
+.maptalks-gmtool button {
+    display: block;
+    width: 24px;
+    height: 24px;
+    background-color: #172029;
+    cursor: pointer;
+    margin-right: 10px;
+    border: none;
+    border-bottom: 1px solid #363539;
+    color: #fff;
+    font-size: 12px;
+    padding: 0;
+}
+.maptalks-gmtool button:hover{
+    color:#00c0ff
+}
+.maptalks-gmtool-mark {
+    background-image: url('../../assets/img/map/t_label.png');
+}
+.maptalks-gmtool-distance {
+    background-image: url('../../assets/img/map/t_distance.png');
+}
+.maptalks-gmtool-area {
+    background-image: url('../../assets/img/map/t_area.png');
+}
+.maptalks-gmtool-shiliang {
+    background-image: url('../../assets/img/map/vecMap.png');
+}
+.maptalks-gmtool-yingxiang {
+    background-image: url('../../assets/img/map/imgMap.png');
+}
+.maptalks-gmtool-yingxiang {
+    background-image: url('../../assets/img/map/imgMap.png');
+}
+.maptalks-gmtool-clear {
+    background: url('../../assets/img/map/close_icon.png') no-repeat center center;
+}
+.maptalks-gmtool-reset{
+    background-image:url('../../assets/img/map/t_reset.png');
+}
